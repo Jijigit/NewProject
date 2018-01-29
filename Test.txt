@@ -1,3 +1,5 @@
 testing
 modifiedline
 todays'changes
+added content manually
+git practise
